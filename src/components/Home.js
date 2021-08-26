@@ -17,7 +17,7 @@ function Home() {
             <p className="text-muted fs-4 mb-1">Hi I'm</p>
             <h1 className="fs-3">Augusto Abichacra</h1>
             <h2 className="text-danger fw-bold text-uppercase">
-              Full Stack Developer
+              Full Stack Developer !
             </h2>
             <p className="mt-2 text-muted">
               Im a freelancer WebDesigner looking forward to work full time to
