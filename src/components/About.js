@@ -7,7 +7,7 @@ import {
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 import Knowledges from './Knowledges.js'
-// Agrego un comentario
+
 function About() {
   return (
     <section className="about bg-white py-5" id="sobre-mi">
