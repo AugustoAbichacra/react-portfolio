@@ -35,7 +35,7 @@ function About() {
               
               <div className="row">
                 <div className="col-lg-12 d-flex align-items-center mt-3 justify-content-center">
-                  <a download href='/docs/CV.doc' className="btn btn-danger px-3 me-5">
+                  <a download href='/docs/CV - Augusto Abichacra.pdf' className="btn btn-danger px-3 me-5">
                     Download CV
                   </a>
                   <div className="social-links">
