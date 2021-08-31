@@ -22,9 +22,9 @@ function Portfolio(){
                     </div>
                     <div className="col-lg-4 col-md-6 mb-4">
                         <div className="portfolio-item">
-                            <img src="img/portfolio/2.png" alt="Imagen 2 Portfolio" className="w-100 img-fluid pt-2" />
-                            <h3 className="fs-5 my-2">CriptoCurrency Live Calculator</h3>
-                            <p><a href="https://wonderful-hermann-5a0a66.netlify.app/" target="_blank" rel="noreferrer"className="text-decoration-none text-danger">Live Demo</a></p>
+                            <img src="img/portfolio/tesla-clone.png" alt="Imagen 1 Portfolio" className="w-100 img-fluid pt-2" />
+                            <h3 className="fs-5 my-2">Tesla (React + Redux) Clone</h3>
+                            <p><a href="https://epic-borg-c99307.netlify.app" target="_blank" rel="noreferrer"className="text-decoration-none text-danger">Live Demo</a></p>
                         </div>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-4">
@@ -50,9 +50,9 @@ function Portfolio(){
                     </div>
                     <div className="col-lg-4 col-md-6 mb-4">
                         <div className="portfolio-item">
-                            <img src="img/portfolio/5.png" alt="Imagen 1 Portfolio" className="w-100 img-fluid pt-2" />
-                            <h3 className="fs-5 my-2">Vet Pacient Administration</h3>
-                            <p><a href="https://veterinaria-frontend-sigma.vercel.app/" target="_blank" rel="noreferrer"className="text-decoration-none text-danger">Live Demo</a></p>
+                            <img src="img/portfolio/2.png" alt="Imagen 2 Portfolio" className="w-100 img-fluid pt-2" />
+                            <h3 className="fs-5 my-2">CriptoCurrency Live Calculator</h3>
+                            <p><a href="https://wonderful-hermann-5a0a66.netlify.app/" target="_blank" rel="noreferrer"className="text-decoration-none text-danger">Live Demo</a></p>
                         </div>
                     </div>
                 </div>
