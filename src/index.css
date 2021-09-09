@@ -5,6 +5,7 @@ body{
 
 html {
   scroll-behavior: smooth;
+  overflow: hidden;
 }
 
 .abau-link{
