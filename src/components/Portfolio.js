@@ -12,7 +12,7 @@ function Portfolio() {
           </div>
         </div>
         <div className="row">
-          <div className="col-lg-4 col-md-6 mb-4">
+          <div className="col-lg-6 col-md-6 mb-4">
             <div className="portfolio-item">
               <img
                 src="img/portfolio/Lean.png"
@@ -35,7 +35,7 @@ function Portfolio() {
               </p>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6 mb-4">
+          <div className="col-lg-6 col-md-6 mb-4">
             <div className="portfolio-item">
               <img
                 src="img/portfolio/1.png"
@@ -55,7 +55,7 @@ function Portfolio() {
               </p>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6 mb-4">
+          <div className="col-lg-6 col-md-6 mb-4">
             <div className="portfolio-item">
               <img
                 src="img/portfolio/Burb.png"
@@ -75,7 +75,7 @@ function Portfolio() {
               </p>
             </div>
           </div>
-          <div className="col-lg-4 col-md-6 mb-4">
+          <div className="col-lg-6 col-md-6 mb-4">
             <div className="portfolio-item">
               <img
                 src="img/portfolio/premium-fodder.png"
@@ -86,46 +86,6 @@ function Portfolio() {
               <p>
                 <a
                   href="https://agitated-wilson-95064c.netlify.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-decoration-none text-danger"
-                >
-                  Live Demo
-                </a>
-              </p>
-            </div>
-          </div>
-          <div className="col-lg-4 col-md-6 mb-4">
-            <div className="portfolio-item">
-              <img
-                src="img/portfolio/7.png"
-                alt="Imagen 1 Portfolio"
-                className="w-100 img-fluid pt-2"
-              />
-              <h3 className="fs-5 my-2">Netflix Clone</h3>
-              <p>
-                <a
-                  href="https://cranky-murdock-33db9d.netlify.app/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-decoration-none text-danger"
-                >
-                  Live Demo
-                </a>
-              </p>
-            </div>
-          </div>
-          <div className="col-lg-4 col-md-6 mb-4">
-            <div className="portfolio-item">
-              <img
-                src="img/portfolio/2.png"
-                alt="Imagen 2 Portfolio"
-                className="w-100 img-fluid pt-2"
-              />
-              <h3 className="fs-5 my-2">CriptoCurrency Live Calculator</h3>
-              <p>
-                <a
-                  href="https://wonderful-hermann-5a0a66.netlify.app/"
                   target="_blank"
                   rel="noreferrer"
                   className="text-decoration-none text-danger"
